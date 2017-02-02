@@ -1,0 +1,13 @@
+fint:
+  sample:
+    oauth:
+      username:
+      password:
+      accessTokenUri:
+      clientId:
+      clientSecret:
+      requestUrl:
+      scope:
+security:
+  basic:
+    enabled: false
